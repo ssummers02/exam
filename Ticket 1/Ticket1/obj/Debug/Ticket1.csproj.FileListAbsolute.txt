@@ -1,0 +1,20 @@
+C:\Users\Kim\Desktop\graf\Ticket1\bin\Debug\Ticket1.exe.config
+C:\Users\Kim\Desktop\graf\Ticket1\bin\Debug\Ticket1.exe
+C:\Users\Kim\Desktop\graf\Ticket1\bin\Debug\Ticket1.pdb
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.csprojAssemblyReference.cache
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.Form1.resources
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.Properties.Resources.resources
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.csproj.GenerateResource.cache
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.exe
+C:\Users\Kim\Desktop\graf\Ticket1\obj\Debug\Ticket1.pdb
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\bin\Debug\Ticket1.exe.config
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\bin\Debug\Ticket1.exe
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\bin\Debug\Ticket1.pdb
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.csprojAssemblyReference.cache
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.Form1.resources
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.Properties.Resources.resources
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.csproj.GenerateResource.cache
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.exe
+C:\Users\Kim\Desktop\Ticket 1\Ticket1\obj\Debug\Ticket1.pdb
