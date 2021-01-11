@@ -1,0 +1,10 @@
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\bin\Debug\Bilet28.exe.config
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\bin\Debug\Bilet28.exe
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\bin\Debug\Bilet28.pdb
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.csprojAssemblyReference.cache
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.Form1.resources
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.Properties.Resources.resources
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.csproj.GenerateResource.cache
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.csproj.CoreCompileInputs.cache
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.exe
+C:\Users\Niyaz\source\repos\Bilet28\Bilet28\obj\Debug\Bilet28.pdb
