@@ -1,0 +1,10 @@
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\bin\Debug\Ticket20.exe.config
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\bin\Debug\Ticket20.exe
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\bin\Debug\Ticket20.pdb
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.csprojAssemblyReference.cache
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.Form1.resources
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.Properties.Resources.resources
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.csproj.GenerateResource.cache
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.csproj.CoreCompileInputs.cache
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.exe
+C:\Users\Ssummers\Desktop\Ticket 20\Ticket20\obj\Debug\Ticket20.pdb
