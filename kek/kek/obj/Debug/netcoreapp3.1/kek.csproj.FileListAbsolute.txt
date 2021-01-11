@@ -1,0 +1,15 @@
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.exe
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.deps.json
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.runtimeconfig.json
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.runtimeconfig.dev.json
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.dll
+C:\Users\Максим\RiderProjects\kek\kek\bin\Debug\netcoreapp3.1\kek.pdb
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.csprojAssemblyReference.cache
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.AssemblyInfoInputs.cache
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.AssemblyInfo.cs
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.csproj.CoreCompileInputs.cache
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.dll
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.pdb
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.genruntimeconfig.cache
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.Form1.resources
+C:\Users\Максим\RiderProjects\kek\kek\obj\Debug\netcoreapp3.1\kek.csproj.GenerateResource.cache
