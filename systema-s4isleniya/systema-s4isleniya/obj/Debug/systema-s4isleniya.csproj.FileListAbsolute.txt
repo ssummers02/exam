@@ -1,0 +1,10 @@
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\bin\Debug\systema-s4isleniya.exe.config
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\bin\Debug\systema-s4isleniya.exe
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\bin\Debug\systema-s4isleniya.pdb
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema-s4isleniya.csprojAssemblyReference.cache
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema_s4isleniya.Form1.resources
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema_s4isleniya.Properties.Resources.resources
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema-s4isleniya.csproj.GenerateResource.cache
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema-s4isleniya.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema-s4isleniya.exe
+C:\Users\ilyas\source\repos\systema-s4isleniya\systema-s4isleniya\obj\Debug\systema-s4isleniya.pdb
