@@ -1,3 +1,4 @@
++ https://docs.google.com/document/d/1_nG5l0lpJsOiUQdfaynwUihgvNb6TmBE1phf3agZZrc/edit#
 # Этот проект создан с целью помочь решить экзамен у тапка
 ## Как именовать папки?
 Берем задачу и создаем папку ***Билет 1***  
