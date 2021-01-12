@@ -57,30 +57,21 @@ namespace zadanie9
                 // input free members matrix
                 for (int i = 0; i < 2; i++)
                 {
-                    freeMemMatrix[i] = Convert.ToInt32(dataGridView1.Rows[1].Cells[i].Value);
+                    freeMemMatrix[i] = Convert.ToInt32(dataGridView2.Rows[i].Cells[0].Value);
                 }
                 
                 determinant = origMatrix[0, 0] * origMatrix[1, 1] - origMatrix[0, 1] * origMatrix[1, 0];
                 if (Math.Abs(determinant) == 0) throw new Exception("Обратной матрицы не существует!");
                 
                 minorMatrix = cosntructMinorMatrix(origMatrix);
-                
-                //double div_det = (-1.0 / determinant);
-                //inverseMatrix[0, 0] = minorMatrix[0, 0] * div_det;
-                //inverseMatrix[0, 1] = minorMatrix[0, 1] * div_det;
-                //inverseMatrix[1, 0] = minorMatrix[1, 0] * div_det;
-                //inverseMatrix[1, 1] = minorMatrix[1, 1] * div_det;
 
                 resultMatrix[0] = minorMatrix[0, 0] * freeMemMatrix[0] + minorMatrix[0, 1] * freeMemMatrix[1];
                 resultMatrix[1] = minorMatrix[1, 0] * freeMemMatrix[0] + minorMatrix[1, 1] * freeMemMatrix[1];
-                for (int j = 0; j < 2; j++)
-                {
-                    MessageBox.Show(resultMatrix[j].ToString());
-                }
-                double div_det = (-1.0 / determinant);
+
+                double div_det = (1.0 / determinant);
                 resultMatrix[0] = resultMatrix[0] * div_det;
                 resultMatrix[1] = resultMatrix[1] * div_det;
-
+                
                 textBox1.Text = resultMatrix[0].ToString();
                 textBox2.Text = resultMatrix[1].ToString();
             }

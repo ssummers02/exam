@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\zadanie9\zadanie9\bin\Debug\zadanie9.exe.config
+C:\Users\User\source\repos\zadanie9\zadanie9\bin\Debug\zadanie9.exe
+C:\Users\User\source\repos\zadanie9\zadanie9\bin\Debug\zadanie9.pdb
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\slauobrmatr.csprojAssemblyReference.cache
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\zadanie9.Form1.resources
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\zadanie9.Properties.Resources.resources
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\slauobrmatr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\slauobrmatr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\zadanie9.exe
+C:\Users\User\source\repos\zadanie9\zadanie9\obj\Debug\zadanie9.pdb
